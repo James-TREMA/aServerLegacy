@@ -10,5 +10,7 @@ J'ai crée cette base, pour mes futurs clients, si des clients souhaite acheté 
 - Vous avez le jobs2 intégré dedans et fonctionnel es_extended & esx_society tout est good.
 - Aucun drop dans les véhicule de police, et les pnj ne fond pas tombé d'arme par terre, à regardé dans le config.lua du es_extended.
 
+
+Si vous rencontré des problème ou autre merci de crée un ticket sur le server discord de ma boutique comme ça je ferais une mise à jour
 Discord : https://discord.gg/dXWrCuUXwU
 
